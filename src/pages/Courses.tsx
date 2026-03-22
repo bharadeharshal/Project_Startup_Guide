@@ -10,7 +10,7 @@ const Courses = () => {
       title: "Business Communication Essentials",
       category: "Communication",
       duration: "4 hours",
-      students: "2,450",
+      students: "3,000",
       level: "Beginner",
       description: "Master the art of professional communication for business success",
       color: "from-blue-500 to-cyan-400",
